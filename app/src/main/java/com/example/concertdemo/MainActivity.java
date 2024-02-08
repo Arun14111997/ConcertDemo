@@ -17,6 +17,7 @@ import java.text.DecimalFormat;
 public class MainActivity extends AppCompatActivity {
     final String TAG = "CONCERT DEMO";
 //added another line from local on Feb 8
+    //add another line from remote
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
